@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ### Principais habilidades
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="Lucas_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Lucas_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Lucas_React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
