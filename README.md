@@ -4,6 +4,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHavranek&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<img align="center" alt="Lucas_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 ## Contato
 <div>  
 <a href="https://www.linkedin.com/in/lucas-havranek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
