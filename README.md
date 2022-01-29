@@ -1,6 +1,8 @@
 ## Olá, seja muito bem-vindo :v:
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
+### Foco em desenvolvimento backend, atualmente estudando node-js e django
+
 ### Principais habilidades
 <div style="display: inline_block">
 <img align="center" alt="Lucas_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
