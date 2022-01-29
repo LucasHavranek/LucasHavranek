@@ -1,6 +1,5 @@
 ## Olá, seja muito bem-vindo :v:
 ##### Foco em desenvolvimento backend, atualmente estou estudando node-js e django 
-##### Minhas linguagens preferidas são Python e Javascript
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
