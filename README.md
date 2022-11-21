@@ -1,5 +1,4 @@
 ## Olá, seja muito bem-vindo :v:
-##### Aqui você irá encontrar alguns projetos realizados para entregas acadêmicas, bootcamps e cursos complementares.
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 
