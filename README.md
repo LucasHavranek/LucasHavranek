@@ -3,7 +3,7 @@
 
 
 
-### Principais habilidades decrescente
+### Principais stacks
 <div style="display: inline_block">
 <img align="center" alt="Lucas-NodeJS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Lucas_JS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
