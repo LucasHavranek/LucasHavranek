@@ -1,7 +1,7 @@
 ## Olá, seja muito bem-vindo :v:
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-#### É com grande satisfação que compartilho um pouco da minha jornada. São 7 anos de experiência no vasto universo da tecnologia, ao longo desses anos mergulhei de cabeça na emocionante área de desenvolvimento de software, acumulo 2 anos neste nicho da tecnologia onde me encontrei como profissional apaixonado por tecnologia. 
+É com grande satisfação que compartilho um pouco da minha jornada. São 7 anos de experiência no vasto universo da tecnologia, ao longo desses anos mergulhei de cabeça na emocionante área de desenvolvimento de software, acumulo 2 anos neste nicho da tecnologia onde me encontrei como profissional apaixonado por tecnologia. 
 
 
 
