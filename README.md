@@ -1,4 +1,4 @@
-## Olá, seja muito bem-vindo :v:
+## Hey dear, you're welcome :v:
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Havranek&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ##### Software Engineer Solutions Architecture Specialist
